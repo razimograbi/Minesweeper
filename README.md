@@ -16,7 +16,7 @@ The Minesweeper game I created uses the Pygame library. It's pretty fun to play 
 ## Installation
 Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/minesweeper.git](https://github.com/razimograbi/Minesweeper.git)
+   git clone https://github.com/razimograbi/Minesweeper.git
    cd minesweeper
    pip install pygame
    python main.py
@@ -24,15 +24,15 @@ Clone the repository:
 ## Screenshots
 
 ### Game Start
-![Game Start]((https://github.com/razimograbi/Minesweeper/blob/main/MyMinesweeperGame1.png))
+![(https://github.com/razimograbi/Minesweeper/blob/main/MyMinesweeperGame1.png)](https://github.com/razimograbi/Minesweeper/blob/main/MyMinesweeperGame1.png)
 
 
 ### Mid Game
-![Mid Game]((https://github.com/razimograbi/Minesweeper/blob/main/MyMinesweeperGame2.png))
+![https://github.com/razimograbi/Minesweeper/blob/main/MyMinesweeperGame2.png](https://github.com/razimograbi/Minesweeper/blob/main/MyMinesweeperGame2.png)
 
 
 ### Game Over Screen, You Lost!
-![Game Over]((https://github.com/razimograbi/Minesweeper/blob/main/GameOver.png))
+![(https://github.com/razimograbi/Minesweeper/blob/main/GameOver.png)](https://github.com/razimograbi/Minesweeper/blob/main/GameOver.png)
 
 
    
